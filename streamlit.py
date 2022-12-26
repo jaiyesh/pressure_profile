@@ -8,6 +8,7 @@ import matplotlib.pyplot as plt
 
 
 st.sidebar.title('Dynamic Pressure Profile App inputs')
+st.title('Jaiyesh Chahar')
 k = st.sidebar.slider('Pem(md)',min_value = 10,max_value = 200,value =100)
 
 mu = st.sidebar.slider('Viscosity', min_value = 10,max_value=50, value =15)
