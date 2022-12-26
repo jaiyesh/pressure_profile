@@ -1,3 +1,4 @@
-numpy
-pandas
-matplotlib
+matplotlib==3.4.2
+numpy==1.19.5
+pandas==1.2.4
+Pillow==9.3.0
