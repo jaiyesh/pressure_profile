@@ -6,7 +6,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 image = Image.open('logo.jpg')
 st.image(image, width=None, use_column_width=None, clamp=False, channels="RGB", output_format="auto")
-st.title('Dynamic Pressure Profile figure')
+st.title('Dynamic Pressure Profile')
 st.markdown('Jaiyesh Chahar')
 st.markdown("Github: https://github.com/jaiyesh")
 
